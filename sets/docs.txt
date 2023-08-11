@@ -1,0 +1,24 @@
+# Web dev
+developer.mozilla.org
+www.w3.org
+html.spec.whatwg.org
+w3c.github.io
+
+# Man pages
+man7.org
+man.9front.org
+manpag.es
+
+# C++
+en.cppreference.com
+www.boost.org
+
+# Java
+reactivex.io
+jenkov.com
+
+# Haskell
+www.haskell.org
+
+# Python
+docs.python.org
