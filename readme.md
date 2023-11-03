@@ -9,3 +9,5 @@ Contributions are welcome.
 * `docs.txt` is not yet in use, but the idea is to gather as many good documentation sites as possible and make a filter for that.
 
 * `random-domains.txt` is the list of domains that are in the random exploration mode.
+
+The Marginalia Search project also shares data sets and dumps from the search engine, much larger than anything you can upload on github, available at [https://downloads.marginalia.nu/export](https://downloads.marginalia.nu/export).
