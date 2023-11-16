@@ -10,4 +10,4 @@ Contributions are welcome.
 
 * `random-domains.txt` is the list of domains that are in the random exploration mode.
 
-The Marginalia Search project also shares data sets and dumps from the search engine, much larger than anything you can upload on github, available at [https://downloads.marginalia.nu/export](https://downloads.marginalia.nu/export).
+The Marginalia Search project also shares data sets and dumps from the search engine, much larger than anything you can upload on github, available at [https://downloads.marginalia.nu/exports](https://downloads.marginalia.nu/exports).
